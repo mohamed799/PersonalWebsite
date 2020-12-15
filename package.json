@@ -1,0 +1,24 @@
+{
+  "name": "mohamedwebsite",
+  "version": "0.0.1",
+  "description": "This is my crib on the web. Find me here if you need me ;)",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamed799/PersonalWebsite.git"
+  },
+  "author": "Mohamed Ibrahim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohamed799/PersonalWebsite/issues"
+  },
+  "homepage": "https://github.com/mohamed799/PersonalWebsite#readme",
+  "dependencies": {
+    "nuxt": "^2.14.11"
+  }
+}
